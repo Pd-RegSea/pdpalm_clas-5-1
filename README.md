@@ -8,7 +8,7 @@
 
 ```
 -1885853.ipynb
--visual_log.zip
+-visual_log
 -Classification_Results.csv
 -README.md
 -LICENSE
